@@ -1,0 +1,11 @@
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.deps.json
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.dll
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp2.2\GetToKnowYourClassmates.pdb
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.dll
+C:\Users\JoshB\OneDrive\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp2.2\GetToKnowYourClassmates.pdb
